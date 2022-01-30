@@ -6,7 +6,8 @@ users can select and unselect names, saving the best ones. Tapping the list icon
 
 The following animated GIF shows how the finished app will work. <br/>
 
-<div align="center">
+<center>
+  
 ![7fcab088cd22cff7](https://user-images.githubusercontent.com/79744131/151712346-5fafdc8f-1f0e-400a-8310-c9b37e666bf6.gif)
 
-  </div>
+  </center>
